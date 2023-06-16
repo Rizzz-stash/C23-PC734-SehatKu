@@ -11,6 +11,8 @@ model_93.h5
 
 the model used in : text_detection.ipynb
 
+################
+
 for yolov5 model:
 
 yolov5_mAE_58.pt
