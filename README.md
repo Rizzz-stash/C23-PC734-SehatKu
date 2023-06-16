@@ -7,11 +7,11 @@ photos of food product packaging to identify the ingredients and their associate
 <ol>
   <li>
     <h5>OCR with Self-built Model</h5>
-    <p>description</p>
+    <p></p>
   </li>
   <li>
     <h5>OCR with PyTesseract/EasyOCR Library</h5>
-    <p>description</p>
+    <p></p>
   </li>
 </ol>
 
