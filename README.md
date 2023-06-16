@@ -8,11 +8,13 @@ The team attempted to build a text detection model using TensorFlow Lite as the 
 model used in [Notebooks](./Notebooks)
 
 model_93.h5
+
 the model used in : text_detection.ipynb
 
 for yolov5 model:
 
 yolov5_mAE_58.pt
+
 used in  : yolov5_mAE_58.ipynb
 </p>
 
