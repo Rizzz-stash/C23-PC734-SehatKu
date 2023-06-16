@@ -5,7 +5,15 @@ photos of food product packaging to identify the ingredients and their associate
 
 The team attempted to build a text detection model using TensorFlow Lite as the final deployment. Although the model achieved an impressive accuracy of 93%, deployment was not pursued within the project scope. Challenges related to incorrect predictions and potential overfitting were encountered. As an alternative approach, the YOLOv5 model was explored for region detection and achieved a mean Average Precision (mAP) of 58%. However, due to time constraints and limited resources, integration with the text detection model was not possible. EasyOCR was implemented as a workaround to successfully read food ingredient labels, but never made it to the deployment stage.
 
+model used in [Notebooks](./Notebooks)
 
+model_93.h5
+the model used in : text_detection.ipynb
+
+for yolov5 model:
+
+yolov5_mAE_58.pt
+used in  : yolov5_mAE_58.ipynb
 </p>
 
 ## Features
